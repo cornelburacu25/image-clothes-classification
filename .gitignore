@@ -1,0 +1,5 @@
+/clothing-dataset-small-master
+/__pycache__
+sequentialModel.h5
+mobileNetV2Model.keras
+vgg16Model.keras
